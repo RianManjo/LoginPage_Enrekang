@@ -12,4 +12,3 @@ eye.addEventListener('click', () => {
     eye.classList.remove('fa-eye');
   }
 });
-
